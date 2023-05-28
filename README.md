@@ -7,14 +7,20 @@
 | --- | --- | --- | --- |
 | Get it workingLocally | - | ❌ | Get it working |
 | Get it working in Collab | - | ❌ | Get it working |
+| Clean up script.py| - | ❌ | Improve readability |
+| Better context template  | - | ❌ | Usability improvement |
+
+
+
+
+
+| Feature | From | Status | Function |
+| --- | --- | --- | --- |
 | Probe for Question | NLTK | ❌ | Usability improvement |
 | Take noons for search terms | NLTK | ❌ | Usability improvement |
-| Clean up script.py| - | ❌ | Improve readability |
 | Lose multidict | NLTK | ❌ | Reduce libaries |
-| Integrate scrub.py | - | ❌ | Improve readability |
-| Minimum Keyword frequency selector | - | ❌ | Usability improvement |
 | Keyword exclusion input box | - | ❌ | Usability improvement |
-| Better context template  | - | ❌ | Usability improvement |
+| Minimum Keyword frequency selector | - | ❌ | Usability improvement |
 
 ###### * I'm not responsible for anything. If you are not getting the results you'd like, you could always google it yourself (as a normal person...).
 ###### * YOU are choosing to use this extension, and if you point the finger at me for messing anything up or wasting your time, I will laugh at you.
