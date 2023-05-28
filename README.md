@@ -1,2 +1,4 @@
 # XtraContext
-Extension for Text Generation Webui, add simple information into the context 
+# ⚠ 🕱 🕱 WORK IN PROGRESS 🕱 🕱 ⚠
+
+## This extension is working, But stil in the "alpha stage"
