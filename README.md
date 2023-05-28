@@ -4,7 +4,7 @@
 ## This extension is currently not even here.
 
 
-#XtraContext
+# XtraContext Adapter
 | Feature | From | Status | Function |
 | --- | --- | --- | --- |
 | Get it workingLocally | - | ❌ | Get it working |
