@@ -1,8 +1,10 @@
 # XtraContext
 # ⚠ 🕱 🕱 WORK IN PROGRESS 🕱 🕱 ⚠
 
-## This extension is working, But stil in the "alpha stage"
+## This extension is currently not even here.
 
+
+#XtraContext
 | Feature | From | Status | Function |
 | --- | --- | --- | --- |
 | Get it workingLocally | - | ❌ | Get it working |
